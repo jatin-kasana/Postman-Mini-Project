@@ -1,0 +1,28 @@
+{
+	"id": "4f8c96b5-b5c1-479b-81a8-225d2bc1591f",
+	"name": "Mini Project",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-01-07T03:14:47.536Z",
+	"_postman_exported_using": "Postman/11.79.1"
+}
